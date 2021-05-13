@@ -1,1 +1,1 @@
-# StrangerCod
+# JavaScript
